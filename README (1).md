@@ -1,8 +1,8 @@
 <h1 align="center"> Binary Search Tree Visualization</h1>
 
 <p align="center">
-	<a href="https://github.com/urvesh254" title="profile">
-	<img src="https://img.shields.io/badge/maintainer-urvesh254-blue" alt="maintainer">
+	<a href="https://github.com/impriyanshu9" title="profile">
+	<img src="https://img.shields.io/badge/maintainer-impriyanshu9-blue" alt="maintainer">
 	</a>
 	<a href="https://www.oracle.com/in/java/technologies/javase-downloads.html" title="JDK Download">
 		<img src="https://img.shields.io/badge/JDK-%3E%3D%20v8-blue" alt="jdk version">
